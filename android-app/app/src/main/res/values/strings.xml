@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NetShield</string>
+    <string name="hero_title_ready">Ready to Check Network</string>
+    <string name="hero_sub_ready">Tap "Run Full Diagnostics" below to inspect Android Wi-Fi, Gateway, DNS, and WAN reachability.</string>
+    <string name="btn_run">🔍 Run Full Diagnostics</string>
+    <string name="btn_heal">⚡ Auto-Solve Network Fault</string>
+</resources>

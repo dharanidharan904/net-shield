@@ -1,0 +1,44 @@
+# Maven Build Output
+target/
+*.class
+
+# Embedded Local Maven Binary distribution
+apache-maven-3.9.9/
+apache-maven-*.zip
+apache-maven-*.tar.gz
+
+# Database Files & Logs
+*.db
+*.db-journal
+*.log
+
+# IDE & Editor files
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+
+# Android Build artifacts
+android-app/.gradle/
+android-app/build/
+android-app/*/build/
+android-app/local.properties
+android-app/.idea/
+android-app/*.iml
+
+# Temporary & Script files
+*.txt
+*.py
+test.html
+extracted_media/
+dist/
+*.pyc
+__pycache__/
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
